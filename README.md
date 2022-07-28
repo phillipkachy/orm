@@ -15,8 +15,6 @@ Built using MySQL2, Express, Sequelize and dotenv.
 
 ![POST PUT DELETE Categories](./animations/POST%20PUT%20DELETE%20Categories.gif)
   
-🎥 The full movie file showing functionality of the application can be found in the animations directory
-  
 User Story:
   
 AS A manager at an internet retail company
